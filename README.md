@@ -41,7 +41,7 @@ Codes of BERT-Tagger\BERT-MRC\BERT-CRF\EDA\LDA can all be found in their origina
 ## Reference
 If you are reusing this work, please cite:
 
-@InProceedings{IsmailFawaz2019deep,
+@InProceedings{alexsivan,
   Title                    = {3Rs:Data Augmentation Techniques Using Document Contexts For Low-Resource Chinese Named Entity Recognition},
   Author                   = {Zheyu Ying ,Jinglei Zhang ,Rui Xie ,Guochang Wen ,Feng Xiao, Xueyang Liu ,Shikun Zhang},
   booktitle                = {IEEE International Joint Conference on Neural Networks},
